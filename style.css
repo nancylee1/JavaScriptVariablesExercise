@@ -9,7 +9,11 @@
     outline: none;
 }
 
-*body{
-    color: black
-    background-color: lightpink;
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: blue;
+    border-radius: 2px;
 }
